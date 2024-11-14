@@ -1,10 +1,6 @@
-<h1 style="color: green; text-align: center;"><b>Object Oriented Programming in Python</b></h1>
+# Object Oriented Programming in Python
 
-<br>
-
-<ul>
-  <li><h2><a href="./Modules/Module1/README.md">Module 1 </a></h2>
-    <ul>
+## [Module 1](./Modules/Module1/README.md")
       <li> Getting Started </li>
       <li> Writing Functions </li>
       <li> Data and Expressions </li>
