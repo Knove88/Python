@@ -14,7 +14,7 @@
  - 1D Lits and Tuples 
       
 ## [Module 3](Modules/Module3/README.md)
-- 2D Lists </li>
+- 2D Lists
 - Event - Based Animations in Tkinter - 1 
 -  Event - Based Animations in Tkinter - 2 
 
