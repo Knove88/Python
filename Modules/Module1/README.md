@@ -1,5 +1,5 @@
 # Getting Started
- - [Running Python](#running-time) 
+ - [Running Python](#running-python) 
  - Hello World in Python 
  - Python Comments 
  - Syntax, Runtime, and Logical Errors 
@@ -46,12 +46,13 @@
  - nthPrime
 
 ---
-#### `Running Python`
+
+#### Running Python
  - **Option 1:**
     - Download and install [Python](https://www.python.org/)
     - Run IDLE (The default Python text editor IDLE)
     - IDLE is available without extra install in nearly all Python installations
 
 - **Option 2:**
-    - Install Visuall Studio (latest version)
-    - Install Python Tools for Visual Studio - PTVS (latest version) 
+    - Install Visual Studio (latest version)
+    - Install Python Tools for Visual Studio - PTVS (latest version)
