@@ -23,4 +23,9 @@
     <li>Install Python Tools for Visual Studio - PTVS (latest version) </li>
   </ul>
 
+  <h2> Writing Functions </h2>
+  <h2> Data and Expressions </h2>
+  <h2> Conditionals </h2>
+  <h2> Loops </h2>
+
 
