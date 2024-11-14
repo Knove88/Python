@@ -10,3 +10,12 @@
   <li> Basic Console Input </li>
   <li> Importing Modules </li>
 </ol>
+
+<h3>Running Python </h3>
+<p>Option 1:</p>
+  <ul>
+    <li>Intall Python 3.</li>
+    Download and install <a href="https//:www.python.org"> python</a>
+    <li>Run IDLE (The default Python text editor /IDE </li>
+    IDLE is available without extra install in nearly all Python installations
+  </ul>
