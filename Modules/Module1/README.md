@@ -29,7 +29,19 @@
  - Local Variable Scope
  - Global Variable Scope
 
-# Data and Expressions 
+# Data and Expressions
+ 1. Some Builtin Types
+ 2. Some Builtin Constants
+ 3. Some Builtin Functions
+ 4. Some Builtin Operators
+ 5. Types Affect Semantics
+ 6. Integer Division
+ 7. The Modulus or Remainder operator (%)
+ 8. Operator Order (Precedence and Associativity)
+ 9. Approximate Values of Floating-Point Numbers
+ 10. Short-Circuit Evaluation
+ 11. type vs isinstance
+
 # Conditionals 
 
 
