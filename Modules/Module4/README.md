@@ -71,3 +71,79 @@
  - Using in Sets (__hash__ and __eq__)
  - Using in Dictionaries (__hash__ and __eq__)
  - Fraction Example
+
+# Object Oriented Programming (OOP) Part 2
+ - **Inheritance**
+   - Specifying a Superclass
+   - Overriding methods
+   - isinstance vs type in inherited classes
+   - Multiple Inheritance
+ - Class Attributes
+ - Static Methods
+ - Direct access to __dict__ (for instances and classes)
+ - **Worked Examples Using OOP**
+   - oopy-dots-demo
+   - oopy-playing-cards-demo
+
+# Recursion Part 1
+ - Getting Started
+ - General Recursive Form
+ - Recursive Math
+ - Basic Examples
+   - rangeSum
+   - listSum
+   - power
+   - interleave
+ - Divide-And-Conquer Examples
+   - rangeSum
+   - listSum
+   - power
+   - interleave
+ - Examples with Multiple Base or Recursive Cases
+   - power with negative exponents
+   - interleave with different-length lists
+ - Examples with Multiple Recursive Calls
+   - fibonacci
+   - towersOfHanoi
+ - Examples Comparing Iteration and Recursion
+   - factorial
+   - reverse
+   - gcd
+ - Iteration vs Recursion Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
