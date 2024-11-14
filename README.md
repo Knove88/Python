@@ -3,13 +3,13 @@
 
 <ul>
   <li><h2>Module 1</h2>
-    <ol>
+    <ul>
       <li> Getting Started </li>
       <li> Writing Functions </li>
       <li> Data and Expressions </li>
       <li> Conditionals </li>
       <li> Loops </li>
-    </ol> 
+    </ul> 
   </li>
   <br>
   <li><h2>Module 2 </h2></li>
