@@ -2,13 +2,16 @@
 <br>
 <h2><ol>
   <li>Module 1
-    <ul>
-      <li>Getting Started</li>
-      <li>Getting Started</li>
-      <li>Getting Started</li>
-      <li>Getting Started</li>
+    <ul> <h3>
+      <li> Getting Started </li>
+      <li> Writing Functions </li>
+      <li> Data and Expressions </li>
+      <li> Conditionals </li>
+      <li> Loops </li>
+    </h3>
     </ul>
   </li>
+  <br>
   <li>Module 2</li>
   <li>Module 3</li>
   <li>Module 4</li>
