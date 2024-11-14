@@ -36,7 +36,7 @@
  - if-else statement
  - if-else expression
  - if-elif-else statement
- - 
+
 # Loops
  - for loops
  - nested for loops
@@ -46,7 +46,7 @@
  - nthPrime
 
 ---
-#### Running Python 
+#### `Running Python`
  - **Option 1:**
     - Download and install [Python](https://www.python.org/)
     - Run IDLE (The default Python text editor IDLE)
