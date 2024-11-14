@@ -1,6 +1,6 @@
 # Object Oriented Programming in Python
 
-## [Module 1](./Modules/Module1/README.md")
+## [Module 1](Modules/Module1/README.md)
  - Getting Started 
  - Writing Functions 
  - Data and Expressions 
