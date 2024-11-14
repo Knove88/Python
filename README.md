@@ -2,7 +2,7 @@
 <br>
 
 <ul>
-  <li><h2>Module 1</h2>
+  <li><h2><a href="./Modules/Module1/README.md">Module 1 </a></h2>
     <ul>
       <li> Getting Started </li>
       <li> Writing Functions </li>
@@ -12,7 +12,7 @@
     </ul> 
   </li>
   <br>
-  <li><h2>Module 2 </h2>
+  <li><h2><a href="./Modules/Module2/README.md">Module 2 </a></h2>
     <ul>
       <li> Strings </li>
       <li> Style </li>
@@ -21,7 +21,7 @@
     </ul> 
   </li>
   <br>
-  <li><h2>Module 3 </h2>
+  <li><h2><a href="./Modules/Module3/README.md">Module 3 </a></h2>
     <ul>
       <li> 2D Lists </li>
       <li> Event - Based Animations in Tkinter - 1 </li>
@@ -29,7 +29,7 @@
     </ul> 
   </li>
   <br>
-  <li><h2>Module 4 </h2>
+  <li><h2><a href="./Modules/Module4/README.md">Module 4 </a></h2>
     <ul>
       <li> Efficiency </li>
       <li> Sets </li>
@@ -43,7 +43,7 @@
     </ul> 
   </li>
   <br>
-  <li><h2>Module 5 </h2>
+  <li><h2><a href="./Modules/Module5/README.md"> Module 5 </a></h2>
     <ul>
       <li> Recursion Part 1 </li>
       <li> Recursion Part 2 </li>
