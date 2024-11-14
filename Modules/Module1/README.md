@@ -6,8 +6,8 @@
    print('Hello World!')
    
    # Single quotes and double quotes are interchangeable
-
    •  Function typed into shell
+   
    def helloWorld():
       print("Hello World!")
 
