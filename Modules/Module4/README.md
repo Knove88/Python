@@ -1,1 +1,13 @@
-
+# Effiency
+ - Big-Oh
+ - Common Function Families
+ - Efficiency
+ - The Big Idea
+ - **Examples**
+  - Sequences, Nesting, and Composition
+  - Python Builtins
+  - Linear Search vs Binary Search
+  - **Sorting**
+   - Sorting Examples
+   - SelectionSort vs MergeSort
+  - sumOfSquares Examples
