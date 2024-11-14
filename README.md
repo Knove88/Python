@@ -2,14 +2,13 @@
 <br>
 <h2><ol>
   <li>Module 1
-    <ul> <h3>
+    <h3><ul>
       <li> Getting Started </li>
       <li> Writing Functions </li>
       <li> Data and Expressions </li>
       <li> Conditionals </li>
       <li> Loops </li>
-    </h3>
-    </ul>
+    </h3></ul> 
   </li>
   <br>
   <li>Module 2</li>
