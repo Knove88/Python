@@ -3,7 +3,7 @@
 <h2>Getting Started</h2>
 <ol>
   <li> Running Python </li>
-  <li> Hello World in Python </li> [basic.py]
+  <li> Hello World in Python </li> (basic.py)
   <li> Python Comments </li>
   <li> Syntax, Runtime, and Logical Errors </li>
   <li> Basic Console Output </li>
