@@ -1,4 +1,4 @@
-<center><h1><b>Object Oriented Programming in Python </h1></center>
+<h1 style="color: green", align="center"><b>Object Oriented Programming in Python </b></h1>
 <br>
 
 <ul>
