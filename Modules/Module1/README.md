@@ -9,9 +9,8 @@
 
 #### Running Python 
  - **Option 1:**
-    - Intall Python 3.
     - Download and install [Python](https://www.python.org/)
-    - Run IDLE (The default Python text editor /IDE </li>
+    - Run IDLE (The default Python text editor IDLE)
     - IDLE is available without extra install in nearly all Python installations
 
 - **Option 2:**
