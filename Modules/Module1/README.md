@@ -4,6 +4,16 @@
    ```console
    print("Hello World!")
    print('Hello World!')
+   
+   # Single quotes and double quotes are interchangeable
+
+   •  Function typed into shell
+   def helloWorld():
+      print("Hello World!")
+
+   helloWorld()
+   ```
+
  - Python Comments 
  - Syntax, Runtime, and Logical Errors 
  - Basic Console Output 
