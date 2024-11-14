@@ -7,16 +7,6 @@
  - Basic Console Input 
  - Importing Modules 
 
-#### Running Python 
- - **Option 1:**
-    - Download and install [Python](https://www.python.org/)
-    - Run IDLE (The default Python text editor IDLE)
-    - IDLE is available without extra install in nearly all Python installations
-
-- **Option 2:**
-    - Install Visuall Studio (latest version)
-    - Install Python Tools for Visual Studio - PTVS (latest version) 
-
 # Writing Functions 
  - Vocabulary
  - Return Statements
@@ -56,3 +46,12 @@
  - nthPrime
 
 
+#### Running Python 
+ - **Option 1:**
+    - Download and install [Python](https://www.python.org/)
+    - Run IDLE (The default Python text editor IDLE)
+    - IDLE is available without extra install in nearly all Python installations
+
+- **Option 2:**
+    - Install Visuall Studio (latest version)
+    - Install Python Tools for Visual Studio - PTVS (latest version) 
