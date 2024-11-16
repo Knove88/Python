@@ -1,5 +1,7 @@
 # Object Oriented Programming in Python
 
+This repository contains my lecture notes, assignments, and projects for the Object-Oriented Programming (OOP) class in Python. It includes key concepts, examples, and hands-on exercises to demonstrate OOP principles like classes, inheritance, polymorphism, and more.
+
 ## [Module 1](Modules/Module1/README.md)
  - Getting Started 
  - Writing Functions 
