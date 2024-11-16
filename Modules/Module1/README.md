@@ -1,22 +1,22 @@
 # Getting Started
  - [Running Python](#running-python) 
  - [Hello World in Python](basic.py)
- - Python Comments 
- - Syntax, Runtime, and Logical Errors 
- - Basic Console Output 
- - Basic Console Input 
- - Importing Modules 
+ - [Python Comments](basic.py) 
+ - [Syntax, Runtime, and Logical Errors](basic.py)
+ - [Basic Console Output](basic.py)
+ - [Basic Console Input](basic.py) 
+ - [Importing Modules](basic.py) 
 
 # Writing Functions 
- - Vocabulary
- - Return Statements
- - Print versus Return
- - Different Parameter and Return Types
- - Function Composition
- - Helper Functions
- - Test Functions
- - Local Variable Scope
- - Global Variable Scope
+ - [Vocabulary](functions.py)
+ - [Return Statements](functions.py)
+ - [Print versus Return](functions.py)
+ - [Different Parameter and Return Types](functions.py)
+ - [Function Composition](functions.py)
+ - [Helper Functions](functions.py)
+ - [Test Functions](functions.py)
+ - [Local Variable Scope](functions.py)
+ - [Global Variable Scope](functions.py)
 
 # Data and Expressions
  - Some Builtin Types
