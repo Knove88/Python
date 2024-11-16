@@ -19,31 +19,31 @@
  - [Global Variable Scope](functions.py)
 
 # Data and Expressions
- - Some Builtin Types
- - Some Builtin Constants
- - Some Builtin Functions
- - Some Builtin Operators
- - Types Affect Semantics
- - Integer Division
- - The Modulus or Remainder operator (%)
- - Operator Order (Precedence and Associativity)
- - Approximate Values of Floating-Point Numbers
- - Short-Circuit Evaluation
- - type vs isinstance
+ - [Some Builtin Types](data.py)
+ - [Some Builtin Constants](data.py)
+ - [Some Builtin Functions](data.py)
+ - [Some Builtin Operators](data.py)
+ - [Types Affect Semantics](data.py)
+ - [Integer Division](data.py)
+ - [The Modulus or Remainder operator (%)](data.py)
+ - [Operator Order (Precedence and Associativity)](data.py)
+ - [Approximate Values of Floating-Point Numbers](data.py)
+ - [Short-Circuit Evaluation](data.py)
+ - [type vs isinstance](data.py)
 
 # Conditionals
- - if statement
- - if-else statement
- - if-else expression
- - if-elif-else statement
+ - [if statement](conditionals.py)
+ - [if-else statement](conditionals.py)
+ - [if-else expression](conditionals.py)
+ - [if-elif-else statement](conditionals.py)
 
 # Loops
- - for loops
- - nested for loops
- - while loops
- - break and continue
- - isPrime
- - nthPrime
+ - [for loops](loops.py)
+ - [nested for loops](loops.py)
+ - [while loops](loops.py)
+ - [break and continue](loops.py)
+ - [isPrime](loops.py)
+ - [nthPrime](loops.py)
 
 ---
 
