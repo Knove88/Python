@@ -1,6 +1,6 @@
 # Getting Started
  - [Running Python](#running-python) 
- - Hello World in Python
+ - [Hello World in Python](basic.py)
  - Python Comments 
  - Syntax, Runtime, and Logical Errors 
  - Basic Console Output 
